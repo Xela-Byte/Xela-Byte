@@ -49,6 +49,8 @@
 #### Frontend (JavaScript / TypeScript / React / HTML / CSS)  
 - [**XelaPortfolio**](https://github.com/Xela-Byte/XelaPortfolio) — Portfolio website showcasing my skills, projects, and dev workflow.
 - [**Spunky (Parody)**](https://github.com/Xela-Byte/spunky) — Tap-to-mine parody website for a utility coin platform.
+- [**Otega Restaurant**](https://www.otegarestaurant.com) - The website serves as Otega Restaurant’s online hub; it welcomes visitors, shows their menu and offers, and lets people place orders for dine-in, takeout, or delivery at any time (the restaurant operates 24/7).
+- [**SwiftTopUp**](https://www.swiftopup.com) - SwiftTopUp is a Nigerian online platform for digital services — you can use it to instantly buy airtime, data bundles, pay electricity bills, renew TV-cable subscriptions, and handle other utility-bill payments.
 
 #### Mobile / Android / iOS  
 - [**optiAIApp**](https://github.com/Xela-Byte/optiAIApp) — Mobile app using AI to identify and give detailed info about flower species.
