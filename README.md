@@ -1,54 +1,84 @@
-<h2 align="left">Hey 👋! I'm Xela and I'm a developer</h2>
+<p align="left">
+  <strong><span style="font-size:28px;">Hey there! I'm Xela 👋</span></strong><br/>
+  Developer | Builder | Problem Solver 🫡
+</p>
 
-###
+---
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Xela-Byte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xela-Byte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 📊 GitHub Stats
+<a href="https://stats.hyo.dev/stats/Xela-Byte"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=Xela-Byte" width="600" /></a>
+<a href="https://stats.hyo.dev/stats/Xela-Byte"><img src="https://stats.hyo.dev/api/github-trophies?login=Xela-Byte" width="600" /></a>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### 🚀 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="30"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/>
-  <img width="30" />
+  <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" height="30" />
 </div>
 
-###
+---
 
-<!--<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>-->
+### 💡 What I Build
+- **Scalable backend systems** (MERN Stack, Node.js, Rust)
+- **Mobile applications** (React Native + TypeScript)
+- **AI-powered experiences** (OpenAI, Claude, Gemini, LLMs)
+- **High-performance web applications** (ReactJS, Next.js, TypeScript)
+- **Blockchain development & Smart Contracts** (Solidity, Rust, Anchor)
 
-<!--###
+---
 
-<br clear="both">
+### 📌 Highlight Projects
 
-<img src="https://raw.githubusercontent.com/Xela-Byte/Xela-Byte/output/snake.svg" alt="Snake animation" />
+#### Frontend (JavaScript / TypeScript / React / HTML / CSS)  
+- [**XelaPortfolio**](https://github.com/Xela-Byte/XelaPortfolio) — Portfolio website showcasing my skills, projects, and dev workflow.
+- [**Spunky (Parody)**](https://github.com/Xela-Byte/spunky) — Tap-to-mine parody website for a utility coin platform.
 
-### -->
+#### Mobile / Android / iOS  
+- [**optiAIApp**](https://github.com/Xela-Byte/optiAIApp) — Mobile app using AI to identify and give detailed info about flower species.
+
+#### Backend / Rust / Server-side  
+- [**Rust Tutorials**](https://github.com/Xela-Byte/rust_tutorials) — Beginner-friendly Rust project examples from common tutorials.
+- [**IdGatewayBackend**](https://github.com/Xela-Byte/IdGatewayBackend) — Backend codebase for idGateway mobile app providing API services and smooth runtime.
+
+---
+
+### 🌟 Achievements
+- 10+ production-ready apps delivered 🚀
+- 12k+ active users across projects 📈
+- Open-source contributions with 200+ stars collectively ⭐
+- Experience with enterprise-grade systems & blockchain apps 🔗
+
+---
+
+### 💼 Services for Clients
+- Custom Web & Mobile App Development
+- Backend & API Development
+- Blockchain & Smart Contracts
+- AI / Automation Solutions
+- Code Review & Optimization
+- Code and Product Consultant
+
+---
+
+### 🎯 Fun Facts
+- Gamer & tech enthusiast 🎮  
+- Lifelong learner 📚
+- Rapid and spontaneous developer 
+
