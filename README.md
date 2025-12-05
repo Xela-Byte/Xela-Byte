@@ -52,6 +52,8 @@
 
 #### Mobile / Android / iOS  
 - [**optiAIApp**](https://github.com/Xela-Byte/optiAIApp) — Mobile app using AI to identify and give detailed info about flower species.
+- [**ImportaPay Android**](https://play.google.com/store/apps/details?id=com.importapay) - ImportaPay is an AI-powered cross-border payments platform that removes the headache of foreign currency hassles. Instantly receive payments from customers in Naira via a dedicated local account, and pay suppliers abroad using Naira at competitive FX rates. [**ImportaPay iOS**](https://apps.apple.com/us/app/importapay/id6752268757)
+- [**Otega Restaurant Android**](https://play.google.com/store/apps/details?id=com.rivong.otega.restaurant) - Food That Makes You Happy is Now Just a Tap Away! Order ahead, reserve a table, track your delivery, and unlock exclusive in-app offers. [**Otega Restaurant iOS**](https://apps.apple.com/us/app/otega-restaurant/id6751304212)
 
 #### Backend / Rust / Server-side  
 - [**Rust Tutorials**](https://github.com/Xela-Byte/rust_tutorials) — Beginner-friendly Rust project examples from common tutorials.
